@@ -15,7 +15,7 @@ ruby directory.rb
 Run the program with a file to load the students from.
 
 ```shell
-ruby directory.rb 
+ruby directory.rb studentsssss.csv
 ```
 
 File format to load the students from.
